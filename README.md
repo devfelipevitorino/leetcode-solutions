@@ -7,4 +7,5 @@ Este repositório contém minhas soluções dos problemas do [LeetCode](https://
 | #   | Título                   | Dificuldade | Solução |
 |-----|--------------------------|-------------|---------|
 | 1   | Two Sum                  | Easy        | [📄](easy/twoSum.js) |
+| 2   | Palindrome Number        | Easy        | [📄](easy/palindromeNumber.js) |
 
