@@ -1,6 +1,6 @@
 # 💻 LeetCode
 
-Este repositório contém minhas soluções dos problemas do [LeetCode](https://leetcode.com/) usando **JavaScript**, com foco em clareza, boas práticas e aprendizado contínuo.
+Este repositório contém minhas soluções dos problemas do [LeetCode](https://leetcode.com/u/devfelipevitorino/) usando **JavaScript**, com foco em clareza, boas práticas e aprendizado contínuo.
 
 ## 🗂️ Índice de Problemas
 
